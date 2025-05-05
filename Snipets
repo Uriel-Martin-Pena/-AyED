@@ -1,0 +1,12 @@
+// Crea un marco de trabajo de forma automatica
+"C++ Prefab": {
+		"prefix": "prefabc",
+		"body": [
+			"#include <iostream>",
+			"using namespace std;",
+			"",
+			"int main() {",
+			"$1",
+			"}",
+		]
+	}
